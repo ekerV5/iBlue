@@ -32,4 +32,4 @@ HunterSun蓝牙SoC空中固件升级
 ![img](https://github.com/ekerV5/iBlue/blob/master/res/iblue_audio.jpg)
 ![img](https://github.com/ekerV5/iBlue/blob/master/res/iblue_hsota.jpg)
 ![img](https://github.com/ekerV5/iBlue/blob/master/res/iblue_mqtt_client.jpg)
-![gif](https://github.com/ekerV5/iBlue/blob/master/res/iblue_aliiot.gif)
+![img](https://github.com/ekerV5/iBlue/blob/master/res/iblue_aliiot.jpg)
